@@ -1,0 +1,404 @@
+
+image_game_object.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board_vertical
+  rotate: false
+  xy: 1, 1213
+  size: 758, 820
+  orig: 758, 820
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 761, 1383
+  size: 821, 650
+  orig: 821, 650
+  offset: 0, 0
+  index: -1
+court_roof
+  rotate: false
+  xy: 1584, 1757
+  size: 806, 276
+  orig: 806, 276
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 2392, 1883
+  size: 900, 150
+  orig: 900, 150
+  offset: 0, 0
+  index: -1
+text_lose
+  rotate: false
+  xy: 1, 1009
+  size: 753, 202
+  orig: 753, 202
+  offset: 0, 0
+  index: -1
+text_win
+  rotate: false
+  xy: 1584, 1565
+  size: 739, 190
+  orig: 739, 190
+  offset: 0, 0
+  index: -1
+btn_menu_h_start
+  rotate: false
+  xy: 1, 387
+  size: 290, 620
+  orig: 290, 620
+  offset: 0, 0
+  index: -1
+court_center_btn_pause
+  rotate: false
+  xy: 293, 447
+  size: 344, 560
+  orig: 344, 560
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 761, 1247
+  size: 611, 134
+  orig: 611, 134
+  offset: 0, 0
+  index: -1
+court_center_btn_pause_vertical
+  rotate: false
+  xy: 1584, 1219
+  size: 560, 344
+  orig: 560, 344
+  offset: 0, 0
+  index: -1
+court_center_btn_pause_vertical_on
+  rotate: false
+  xy: 3294, 1689
+  size: 560, 344
+  orig: 560, 344
+  offset: 0, 0
+  index: -1
+board_header_n_description
+  rotate: false
+  xy: 2392, 1558
+  size: 559, 323
+  orig: 559, 323
+  offset: 0, 0
+  index: -1
+court_center_btn_pause_pressed
+  rotate: false
+  xy: 639, 447
+  size: 344, 560
+  orig: 344, 560
+  offset: 0, 0
+  index: -1
+court_center_line
+  rotate: false
+  xy: 985, 685
+  size: 344, 560
+  orig: 344, 560
+  offset: 0, 0
+  index: -1
+board_header
+  rotate: false
+  xy: 293, 322
+  size: 559, 123
+  orig: 559, 123
+  offset: 0, 0
+  index: -1
+btn_menu_h_more_games
+  rotate: false
+  xy: 2953, 1481
+  size: 290, 400
+  orig: 290, 400
+  offset: 0, 0
+  index: -1
+btn_continue
+  rotate: false
+  xy: 3245, 1459
+  size: 550, 228
+  orig: 550, 228
+  offset: 0, 0
+  index: -1
+goal_posts_left
+  rotate: false
+  xy: 1331, 630
+  size: 135, 615
+  orig: 135, 615
+  offset: 0, 0
+  index: -1
+btn_continue_with_text
+  rotate: false
+  xy: 1468, 989
+  size: 550, 228
+  orig: 550, 228
+  offset: 0, 0
+  index: -1
+btn_game_over_share
+  rotate: false
+  xy: 1468, 759
+  size: 550, 228
+  orig: 550, 228
+  offset: 0, 0
+  index: -1
+btn_game_over_share_empty
+  rotate: false
+  xy: 1468, 529
+  size: 550, 228
+  orig: 550, 228
+  offset: 0, 0
+  index: -1
+goal_posts_right
+  rotate: false
+  xy: 2020, 572
+  size: 181, 645
+  orig: 181, 645
+  offset: 0, 0
+  index: -1
+goal_posts_lights
+  rotate: false
+  xy: 985, 427
+  size: 320, 256
+  orig: 320, 256
+  offset: 0, 0
+  index: -1
+btn_round_again
+  rotate: false
+  xy: 1, 37
+  size: 174, 348
+  orig: 174, 348
+  offset: 0, 0
+  index: -1
+btn_menu_v_more_games
+  rotate: false
+  xy: 177, 20
+  size: 460, 300
+  orig: 460, 300
+  offset: 0, 0
+  index: -1
+btn_round_home
+  rotate: false
+  xy: 3856, 1685
+  size: 174, 348
+  orig: 174, 348
+  offset: 0, 0
+  index: -1
+btn_menu_v_options
+  rotate: false
+  xy: 2146, 1256
+  size: 460, 300
+  orig: 460, 300
+  offset: 0, 0
+  index: -1
+btn_menu_v_rate
+  rotate: false
+  xy: 2203, 954
+  size: 460, 300
+  orig: 460, 300
+  offset: 0, 0
+  index: -1
+btn_menu_v_share
+  rotate: false
+  xy: 2203, 652
+  size: 460, 300
+  orig: 460, 300
+  offset: 0, 0
+  index: -1
+btn_menu_v_start
+  rotate: false
+  xy: 2203, 350
+  size: 460, 300
+  orig: 460, 300
+  offset: 0, 0
+  index: -1
+text_goal
+  rotate: false
+  xy: 1307, 334
+  size: 538, 193
+  orig: 538, 193
+  offset: 0, 0
+  index: -1
+numbers_score
+  rotate: false
+  xy: 2608, 1364
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+btn_menu_h_options
+  rotate: false
+  xy: 2665, 962
+  size: 290, 400
+  orig: 290, 400
+  offset: 0, 0
+  index: -1
+btn_menu_h_rate
+  rotate: false
+  xy: 2665, 560
+  size: 290, 400
+  orig: 290, 400
+  offset: 0, 0
+  index: -1
+btn_menu_h_share
+  rotate: false
+  xy: 2665, 158
+  size: 290, 400
+  orig: 290, 400
+  offset: 0, 0
+  index: -1
+btn_ok
+  rotate: false
+  xy: 639, 96
+  size: 204, 224
+  orig: 204, 224
+  offset: 0, 0
+  index: -1
+btn_round_no
+  rotate: false
+  xy: 2957, 1131
+  size: 174, 348
+  orig: 174, 348
+  offset: 0, 0
+  index: -1
+pud_left
+  rotate: false
+  xy: 3133, 1257
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+pud_right
+  rotate: false
+  xy: 3133, 1055
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+btn_round_ok
+  rotate: false
+  xy: 2957, 781
+  size: 174, 348
+  orig: 174, 348
+  offset: 0, 0
+  index: -1
+ball_hit
+  rotate: false
+  xy: 3133, 989
+  size: 480, 64
+  orig: 480, 64
+  offset: 0, 0
+  index: -1
+btn_round_options
+  rotate: false
+  xy: 2957, 431
+  size: 174, 348
+  orig: 174, 348
+  offset: 0, 0
+  index: -1
+option
+  rotate: false
+  xy: 3133, 906
+  size: 333, 81
+  orig: 333, 81
+  offset: 0, 0
+  index: 1
+option
+  rotate: false
+  xy: 3133, 823
+  size: 333, 81
+  orig: 333, 81
+  offset: 0, 0
+  index: 2
+option
+  rotate: false
+  xy: 3133, 740
+  size: 333, 81
+  orig: 333, 81
+  offset: 0, 0
+  index: 3
+goal_posts_lights_2frames
+  rotate: false
+  xy: 3635, 1201
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+ball_frames
+  rotate: false
+  xy: 3133, 690
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+slider_bg
+  rotate: false
+  xy: 1307, 554
+  size: 159, 74
+  orig: 159, 74
+  offset: 0, 0
+  index: -1
+btn_arrow_left
+  rotate: false
+  xy: 1847, 365
+  size: 69, 162
+  orig: 69, 162
+  offset: 0, 0
+  index: -1
+btn_arrow_right
+  rotate: false
+  xy: 2866, 1394
+  size: 66, 162
+  orig: 66, 162
+  offset: 0, 0
+  index: -1
+slider_off
+  rotate: false
+  xy: 2957, 281
+  size: 74, 148
+  orig: 74, 148
+  offset: 0, 0
+  index: -1
+slider_on
+  rotate: false
+  xy: 3468, 839
+  size: 74, 148
+  orig: 74, 148
+  offset: 0, 0
+  index: -1
+ball_shadow
+  rotate: false
+  xy: 1374, 1330
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+option_icon_difficulty
+  rotate: false
+  xy: 3245, 1847
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+option_icon_sound
+  rotate: false
+  xy: 854, 411
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+option_icon_vibrations
+  rotate: false
+  xy: 1, 1
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+btn_pause
+  rotate: false
+  xy: 177, 352
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1

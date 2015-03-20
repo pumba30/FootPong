@@ -8,7 +8,7 @@ import com.pandroid.FootPongGame;
 
 public class DesktopLauncher {
     private static boolean rebuildAtlas = false;
-    private static boolean drawDebugOutline = true;
+    private static boolean drawDebugOutline = false;
 
     public static void main(String[] arg) {
         if (rebuildAtlas) {
@@ -20,12 +20,14 @@ public class DesktopLauncher {
             settings.duplicatePadding = false;
             settings.debug = drawDebugOutline;
             TexturePacker.process(settings, "D:\\workspase_android\\FootPong\\desktop\\assets-raw", "images",
-                    "footpong.pack");
+                    "footpong_level.pack");
         }
         LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
-
-        config.height = 800;
+        config.title = "FootPong";
+        config.vSyncEnabled = true;
         config.width = 1280;
+        config.height = 800;
+
         new LwjglApplication(new FootPongGame(), config);
     }
 }

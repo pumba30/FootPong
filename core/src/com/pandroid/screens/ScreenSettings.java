@@ -1,17 +1,11 @@
-package com.pandroid;
+package com.pandroid.screens;
 
 import com.badlogic.gdx.Screen;
 
 /**
- * Created by pumba30 on 17.03.2015.
+ * Created by pumba30 on 19.03.2015.
  */
-public class GameScreen implements Screen {
-
-
-
-
-
-
+public class ScreenSettings implements Screen {
     @Override
     public void show() {
 
